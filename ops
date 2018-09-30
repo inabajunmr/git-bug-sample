@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"name":"inabajunmr","email":"inabajun.for.regi@gmail.com","avatar_url":""},"timestamp":1538293909,"title":"ログイン時にブラウザから直接DBの全ユーザを取得し、ID、パスワードの検証をブラウザで行なっている","message":"全ユーザの認証情報が露出しているため、ログインの機構を全て見直す必要がある","files":null}]}
